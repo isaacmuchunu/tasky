@@ -24,7 +24,7 @@ To run Tasky locally on your machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/tasky.git
+   git clone https://github.com/isaacmuchunu/tasky.git
    ```
 
 2. **Navigate to the project directory:**
